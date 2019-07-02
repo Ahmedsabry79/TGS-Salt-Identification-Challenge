@@ -1,0 +1,3 @@
+model_checkpoint_path: "C:/Users/MSabry/Desktop/TGS Project/ResNet-UNet/Every Check Point/"
+all_model_checkpoint_paths: "C:/Users/MSabry/Desktop/TGS Project/ResNet-UNet/Check Point/"
+all_model_checkpoint_paths: "C:/Users/MSabry/Desktop/TGS Project/ResNet-UNet/Every Check Point/"

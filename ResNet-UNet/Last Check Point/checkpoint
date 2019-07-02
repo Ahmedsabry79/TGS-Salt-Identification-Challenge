@@ -1,0 +1,4 @@
+model_checkpoint_path: "C:/Users/MSabry/Desktop/TGS Project/UNet224/Last Check Point/"
+all_model_checkpoint_paths: "C:/Users/MSabry/Desktop/TGS Project/UNet224/Check Point/"
+all_model_checkpoint_paths: "C:/Users/MSabry/Desktop/TGS Project/UNet224/Every Check Point/"
+all_model_checkpoint_paths: "C:/Users/MSabry/Desktop/TGS Project/UNet224/Last Check Point/"
